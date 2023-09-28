@@ -1,0 +1,13 @@
+.logInButton {
+    background-color: #000000;
+    border: solid 1px #ffffff;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 10px 30px;
+}
+
+.logInButton:hover{
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+}

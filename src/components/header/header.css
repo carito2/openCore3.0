@@ -1,0 +1,87 @@
+.flex {
+    display: flex;
+}
+
+.headerHome {
+    align-items: center;
+    background-color: #000000;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-between;
+    padding: 1.9rem;
+    width: 50vw;
+}
+
+.headerHome .logoBox {
+    background-color: #ffffff;
+    border-radius: 50%;
+    height: 10rem;
+    width: 10rem;
+}
+
+.logo {
+    height: 25%;
+    width: 94%;
+}
+
+.headerHome .logOutButton {
+    width: 26%;
+}
+
+.logOutButton {
+    align-items: center;
+    background-color: #000000;
+    border: solid 1px #ffffff;
+    border-radius: 1.3rem;
+    color: #ffffff;
+    cursor: pointer;
+    height: 3.6rem;
+    justify-content: center;
+    width: 13%;
+}
+
+.logOutButton:hover {
+   background-color: #ffffff;
+   color: #000000;
+}
+
+.header {
+    align-items: center;
+    background-color: #000000;
+    height: 9vh;
+    justify-content: space-between;
+    padding: 1rem 1.9rem;
+    width: 100vw;
+}
+
+.header .logoBox {
+    background-color: #ffffff;
+    border-radius: 50%;
+    height: 5.6rem;
+    position: absolute;
+    top: 2.5rem;
+    left: 47%;
+    width: 5.6rem;
+}
+
+.header h1 {
+    color: #ffffff;
+}
+
+.header .linkToHome {
+    background-color: #000000;
+    border: solid 1px #ffffff;
+    border-radius: 20px;
+    color: #ffffff;
+    font-weight: 700;
+    padding: 0.5rem;
+    position: absolute;
+    text-decoration: none;
+    top: 1.4rem;
+    right: 69%;
+}
+
+.header .linkToHome:hover {
+    background-color: #ffffff;
+    color: #000000;
+}

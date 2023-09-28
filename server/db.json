@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "nameOfProject": "Proyecto 1 Actualizado",
+      "descriptionOfProject": "Descripción del proyecto 1 Actualizada",
+      "id": "uid-1"
+    },
+    {
+      "nameOfProject": "Proyecto 2",
+      "descriptionOfProject": "Descripción del Proyecto 2",
+      "id": "uid-2"
+    }
+  ]
+}
